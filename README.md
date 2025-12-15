@@ -1,2 +1,2 @@
 # testRepo
-Repository for uploading test files from Command Line
+Test repository for testing scripts and files
